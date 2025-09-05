@@ -1,0 +1,38 @@
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.exe
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.dll.config
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.deps.json
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.runtimeconfig.json
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.dll
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.pdb
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.Form1.resources
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.Properties.Resources.resources
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.csproj.GenerateResource.cache
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.AssemblyInfoInputs.cache
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.AssemblyInfo.cs
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.csproj.CoreCompileInputs.cache
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.sourcelink.json
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.dll
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\refint\MovingObject.dll
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.pdb
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.genruntimeconfig.cache
+D:\Semester 5\Jaringan Komputer\Socket\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\ref\MovingObject.dll
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.exe
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.dll.config
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.deps.json
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.runtimeconfig.json
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.dll
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\bin\Debug\net9.0-windows\MovingObject.pdb
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.Form1.resources
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.Properties.Resources.resources
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.csproj.GenerateResource.cache
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.AssemblyInfoInputs.cache
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.AssemblyInfo.cs
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.csproj.CoreCompileInputs.cache
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.sourcelink.json
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.dll
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\refint\MovingObject.dll
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.pdb
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\MovingObject.genruntimeconfig.cache
+E:\Percobaan server\NetworkProgramming\NetworkProgramming\MovingObject\obj\Debug\net9.0-windows\ref\MovingObject.dll
